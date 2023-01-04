@@ -16,4 +16,4 @@ npm start
 ```
 
 ## 💻 See more:
-https://www.linkedin.com/feed/update/urn:li:ugcPost:7014264283463073792/
+[Demonstrative video](https://www.linkedin.com/feed/update/urn:li:ugcPost:7014264283463073792/)
