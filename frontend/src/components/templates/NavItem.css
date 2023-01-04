@@ -1,0 +1,31 @@
+.menu-links a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    background-color: #07a8e31e;
+    font-weight: 300;
+    padding: 15px !important;
+    margin-bottom: 1px;
+}
+
+.menu-links i {
+    margin-right: 8px;
+}
+
+.menu-links a:hover {
+    background: linear-gradient(135deg, #07a7e3 0%, #32dac3 100%) !important;
+}
+
+.menu-links a:active {
+    color: rgba(0, 0, 0, 0.233);
+}
+
+@media(max-width: 768px){
+    
+    .menu-links a {
+        display: inline;
+        padding: 10px;
+        margin: 0px;
+    }
+
+}
