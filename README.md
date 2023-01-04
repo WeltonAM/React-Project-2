@@ -1,2 +1,19 @@
-# React-Project-2
- A User Register in react at Modern_Web_Course
+### 🙍‍♂️ React User Register
+
+## 🚀 How to execute this project:
+
+Make sure to have all dependencies installed:
+```
+npm i
+```
+Enter in the Backend directory and execute: 
+```
+npm start
+```
+After enter in the Frontend directory and execute: 
+```
+npm start
+```
+
+## 💻 See more:
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7014264283463073792/
